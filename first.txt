@@ -5,3 +5,4 @@ gitbash だよ。
 ・git commit
 ・git rm  (removeファイル削除)
 ・git status
+・git diff （ローカルとステージングの差分を表示。addされた後だと表示されない）
