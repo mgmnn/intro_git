@@ -4,3 +4,4 @@ gitbash だよ。
 ・git add
 ・git commit
 ・git rm  (removeファイル削除)
+・git status
