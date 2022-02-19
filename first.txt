@@ -1,6 +1,8 @@
 Git練習用
 フローを学びます
 gitbash だよ。
+[vim でコメント追記後　:wq　enter]だよ。
+
 ・git add
 ・git commit
 ・git rm  (removeファイル削除)
